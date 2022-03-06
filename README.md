@@ -4,4 +4,4 @@ I collaborate with the Langlais Lab at the McGill Genome Centre for bioinformati
 
 I am committed to health care equity and accessibility.
 
-Know more about me at my [personal website] (https://urvashi-s.github.io/).
+Know more about me at my [personal website](https://urvashi-s.github.io/).
